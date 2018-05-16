@@ -1,0 +1,14 @@
+img {
+    width: 300px
+}
+
+button,
+div,
+form,
+input {
+  margin: 10px;
+}
+
+h3, .rating {
+    font-size: 15px;
+}
